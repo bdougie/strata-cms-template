@@ -1,4 +1,4 @@
-# Victor Hugo
+# Victor Hugo CMS Template
 
 **A [Hugo](http://gohugo.io/) boilerplate for creating truly epic websites**
 
