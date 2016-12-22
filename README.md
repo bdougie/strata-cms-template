@@ -12,6 +12,7 @@ asset pipeline.
 It's setup to use post-css and babel for CSS and JavaScript.
 
 ## Usage
+Be sure that you have the latest node, npm and [Hugo](https://gohugo.io/overview/installing/) installed. If you need to install hugo, run:
 
 Clone this repository and run:
 
