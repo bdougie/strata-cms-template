@@ -2,6 +2,8 @@
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/strata-cms-template)
 
+![mrtable image](https://s3-us-west-1.amazonaws.com/publis-brian-images/mrtable.png?X-Amz-Date=20161222T203429Z&X-Amz-Expires=300&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Signature=e8ff8ddb2d555258dba0775e0c341bd9be53e4ee8b7602fb8a9bcecc1666fb1c&X-Amz-Credential=ASIAIJRHPKPGM5D62QVA/20161222/us-west-1/s3/aws4_request&X-Amz-SignedHeaders=Host&x-amz-security-token=FQoDYXdzEJb//////////wEaDJLDZLffsBrpHTSnCiL6ATv5aubGTaL0clKKIWKW4IT1Ua5QqbsXA8nqadFgUJz8oc5nQlFwIIQ2FCJN4HsZ/WlVMQKZivX6riea9YeaU%2BByrZ4cQqCTfvOcrp7s8QdkpbIYcYY6fH7g0Up2lJiFzabmeoZK2BsqJPE%2Bd/9SBUnm82LeeCDNfJaRKJlnplapOCCB3KvJCdDkbSDraBgDaUJH71iwd3BAxxDMjSu5GYBptl5rUXkMYjrmY1lRIRZvNPF3F3C7DTsP1vSWbd7oL0v7oMJ1%2BD61CkX4iIaImSpY%2BzWpquz4neDSf2ZJxf/vp0IB0uxMRgqPsUqc5%2Be3kGlp5CeKKSxvlWAojvHwwgU%3D)
+
 **A [Hugo](http://gohugo.io/) boilerplate for creating truly epic websites**
 
 This is a boilerplate for using Hugo as a static site generator and Gulp + Weback as your
