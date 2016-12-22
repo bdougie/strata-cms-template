@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: fakeAssBrian/victor-hugo-template # Path to your Github repository
+  repo: owner/repository # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
