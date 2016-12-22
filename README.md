@@ -39,6 +39,44 @@ npm run build
 |  |--css              // CSS files in the root of this folder will end up in /css/...
 |  |--js               // app.js will be compiled to /js/app.js with babel
 ```
+## CMS
+
+### How it works
+
+Netlify CMS is a single-page app that you pull into the `/admin` part of your site.
+
+It presents a clean UI for editing content stored in a Git repository.
+
+You setup a YAML config to describe the content model of your site, and typically
+tweak the main layout of the CMS a bit to fit your own site.
+
+### Setup GitHub as a Backend
+
+In the `config.yml` file [change the GitHub owner and repo](https://github.com/bdougie/strata-cms-template/blob/master/site/static/admin/config.yml#L3) to reflect your repo:
+
+```yaml
+backend:
+  name: github
+  repo: owner/repo # Path to your Github repository
+  branch: master # Branch to update (master by default)
+  
+  ...
+```
+When a user navigates to `/admin` she'll be prompted to login, and once authenticated
+she'll be able to create new content or edit existing content.
+The default Github-based authenticator integrates with Netlify's [Authentication Provider feature](https://www.netlify.com/docs/authentication-providers) and the repository
+backend integrates directly with Github's API.
+
+To get everything hooked up, setup continuous deployment from Github to Netlify
+and then follow [the documentation](https://www.netlify.com/docs/authentication-providers)
+to setup Github as an authentication provider.
+
+That's it, now you should be able to go to the `/admin` section of your site and
+log in.
+
+### Find out more and contribute
+
+Visit the [Netlify CMS](https://github.com/netlify/netlify-cms/) to find out more and contribute. 
 
 ## Basic Concepts
 
