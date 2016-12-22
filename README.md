@@ -1,4 +1,6 @@
 # Victor Hugo CMS Template
+<!-- Markdown snippet -->
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/strata-cms-template)
 
 **A [Hugo](http://gohugo.io/) boilerplate for creating truly epic websites**
 
