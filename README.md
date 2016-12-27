@@ -2,7 +2,7 @@
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/strata-cms-template)
 
-![mrtable image](https://s3-us-west-1.amazonaws.com/publis-brian-images/mrtable.png?X-Amz-Date=20161227T172903Z&X-Amz-Expires=300&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Signature=325f242a6adf09c1219f3b3cef70a07d7c3173743905a0adf86a38a9e196d56b&X-Amz-Credential=ASIAIB6ELPOMV4QK7NOA/20161227/us-west-1/s3/aws4_request&X-Amz-SignedHeaders=Host&x-amz-security-token=FQoDYXdzEBsaDGoNDfLU0q/GfcaPjCL6AdIFUKPt2H8CFM5XMkiosG7NKViTnzWAO/340CGfeklV/qDMNJgM5qJW3cW5n054pAmXtdpbvIeaty3EkxW6z9Xz2bV8D90tMSP7N%2BwN0b5ptllodGLwOb1IrQ8zXJX1gjRucMXDBVA8wS8cJc/jbVZOSU%2BdGEY1hPXJLLSFhOtQzSTJVUqPlGJzqoWqOkLdXbQHCFBs9jnXNKpxvlhnh3KOYEejSht0SaQjHdiIcWYOpJBu%2B9JnYPx53nLCrtxY24UgyQZbecd1NqabfZ6h4LaifoEDs73Ue4juSqlJ2I/ad0p4Jek8UW2peirTRbRgdtiqp6D%2Bn4WJkrgoqMmKwwU%3D)
+![mrtable image](https://s3-us-west-1.amazonaws.com/publis-brian-images/mrtable.png)
 
 **A [Hugo](http://gohugo.io/) boilerplate for creating truly epic websites**
 
