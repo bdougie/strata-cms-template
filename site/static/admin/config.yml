@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: owner/repository # Path to your Github repository
+  repo: owner/repository # https://blog.darlalyn.me
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
